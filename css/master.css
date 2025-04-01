@@ -22,3 +22,8 @@
     padding-top: 30px;
     padding-bottom: 10px;
   }
+
+   .menu-item:hover{
+    color:darkgreen;
+
+  }

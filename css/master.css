@@ -17,7 +17,8 @@
   }
   
   .menu-item{
-    font-size: 24pt;
-    padding-top: 10px;
+    color:black
+    font-size: 10pt;
+    padding-top: 30px;
     padding-bottom: 10px;
   }

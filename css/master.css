@@ -16,3 +16,8 @@
     font-style: normal;
   }
   
+  .menu-item{
+    font-size: 24pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }

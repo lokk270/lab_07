@@ -37,5 +37,7 @@
 
 .green-text{
     background-color: #41362f;
-    color:white
+    color:white;
+    padding-right:10px;
+    padding-left:10px;
 }
